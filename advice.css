@@ -1,0 +1,32 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(120, 68, 120);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+div{
+    text-align: center;
+}
+div h1{
+    font-size: 30px;
+    color: whitesmoke;
+}
+div button{
+    padding: 15px 30px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(112, 106, 238);
+    color: whitesmoke;
+}
+p{
+    font-size: 20px;
+    color: whitesmoke;
+}
+b{
+    font-size: 30px;
+    color: black;
+}
